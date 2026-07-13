@@ -4,6 +4,10 @@ A complete React + TypeScript starter for turning a subject into a short, story-
 
 > **Classroom demo:** authentication and permissions are simulated. Do not enter personal, confidential, or sensitive information. The app contains no analytics. Its noindex settings discourage search indexing but do not make a deployment private.
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/earseneau1/ai-learning-game-starter)
+
+Clicking this button creates a student-owned copy of the public repository and a connected Netlify site. Students need a free GitHub account first; the easiest path is to choose **Sign up with GitHub** on Netlify.
+
 ## Student quick start
 
 1. Use GitHub’s **Use this template** (or fork/copy the repository).
