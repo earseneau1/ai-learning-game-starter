@@ -1,0 +1,16 @@
+:root {
+  --ink: #182624;
+  --muted: #65736f;
+  --paper: #f7f5ee;
+  --surface: #fffefa;
+  --forest: #123c34;
+  --forest-2: #1e5549;
+  --mint: #cce7d9;
+  --lime: #d9ed84;
+  --orange: #f0a45d;
+  --lavender: #d9d5f5;
+  --red: #b94e47;
+  --line: #d8ddd6;
+  --shadow: 0 20px 60px rgba(18, 60, 52, .12);
+  --radius: 18px;
+}
